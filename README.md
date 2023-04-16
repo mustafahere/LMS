@@ -1,5 +1,8 @@
 # Library Management system
 
+- Lanagugae: `C#`
+- Database: `SQL Server`
+
 ## Folders:
 
 - Database: `/Database`
